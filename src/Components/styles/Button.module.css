@@ -1,0 +1,22 @@
+.whiteButton{
+  width: 18.75rem;
+
+  padding: 1.2rem 0;
+
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2rem;
+
+  background-color: #fff;
+  color: #000;
+
+  border: 2px solid #000;
+  border-radius: 1.25rem;
+
+  transition: all 0.3s;
+}
+
+.whiteButton:hover{
+  background-color: #4A55EE;
+  color: #fff;
+}
