@@ -1,11 +1,11 @@
 .whiteButton{
-  width: 18.75rem;
+  width: 25%;
 
   padding: 1.2rem 0;
 
   font-family: 'IBM Plex Mono';
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 1.5rem;
 
   background-color: #fff;
   color: #000;
